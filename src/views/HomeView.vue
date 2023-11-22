@@ -4,6 +4,7 @@
 
 <template>
   <main>
-    Home
+    <p>C'est ici que on mettra la nav et le footer</p>
   </main>
+  
 </template>
